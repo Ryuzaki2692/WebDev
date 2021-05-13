@@ -1,0 +1,90 @@
+h1{
+    text-align: center;
+    height: 30px;
+    width: 600px;
+    background-color: rgba(4, 213, 255, 0.322);
+
+    font-style:inherit;
+    border: rgba(27, 23, 65, 0.438) solid 2px;
+    padding: 30px;
+    margin-left: 400px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+#abouth{
+    text-align: center;
+    height: 40px;
+    width: 800px;
+    border: solid 5px brown;
+    border-radius: 50px;
+    background-color: rgba(255, 0, 0, 0.24);
+}
+#about{
+    height:300px;
+    width: 600px;
+    font-size: x-large;
+    margin-left: 90px;
+    text-align: center;
+    margin-bottom: 10px;
+    border: rgb(18, 167, 62) solid 5px;
+    background-color: rgba(0, 255, 255, 0.411);
+    border-radius: 20px;
+}
+#interesth{
+    text-align: center;
+    height: 40px;
+    width: 800px;
+    border: solid 5px brown;
+    margin-left: 650px;
+    border-radius: 50px;
+    background-color: rgba(255, 0, 0, 0.24);
+}
+#interest{
+    height:220px;
+    width: 600px;
+    font-size: x-large;
+    margin-left: 750px;
+    text-align: center;
+    margin-bottom: 10px;
+    border: rgb(18, 167, 62) solid 5px;
+    background-color: rgba(0, 255, 255, 0.411);
+    border-radius: 20px;
+}
+#skillh{
+    text-align: center;
+    height: 40px;
+    width: 800px;
+    border: solid 5px brown;
+    border-radius: 50px;
+    background-color: rgba(255, 0, 0, 0.24);
+}
+#skills{
+    height:150px;
+    width: 600px;
+    font-size: x-large;
+    margin-left: 90px;
+    text-align: center;
+    margin-bottom: 10px;
+    border: rgb(18, 167, 62) solid 5px;
+    background-color: rgba(0, 255, 255, 0.411);
+    border-radius: 20px;
+}
+#hobbyh{
+    text-align: center;
+    height: 40px;
+    width: 800px;
+    border: solid 5px brown;
+    border-radius: 50px;
+    margin-left: 650px;
+    background-color: rgba(255, 0, 0, 0.24);
+}
+#hobby{
+    height:170px;
+    width: 560px;
+    font-size: x-large;
+    margin-left: 750px;
+    margin-bottom: 10px;
+    border: rgb(18, 167, 62) solid 5px;
+    background-color: rgba(0, 255, 255, 0.411); 
+    border-radius: 20px;
+}
