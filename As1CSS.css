@@ -20,6 +20,7 @@ h1{
     background-color: rgba(255, 0, 0, 0.24);
 }
 #about{
+    font-style: italic;
     height:300px;
     width: 600px;
     font-size: x-large;
@@ -40,6 +41,7 @@ h1{
     background-color: rgba(255, 0, 0, 0.24);
 }
 #interest{
+    font-style: italic;
     height:220px;
     width: 600px;
     font-size: x-large;
@@ -59,6 +61,7 @@ h1{
     background-color: rgba(255, 0, 0, 0.24);
 }
 #skills{
+    font-style: italic;
     height:150px;
     width: 600px;
     font-size: x-large;
@@ -79,6 +82,7 @@ h1{
     background-color: rgba(255, 0, 0, 0.24);
 }
 #hobby{
+    font-style: italic;
     height:170px;
     width: 560px;
     font-size: x-large;
@@ -87,4 +91,18 @@ h1{
     border: rgb(18, 167, 62) solid 5px;
     background-color: rgba(0, 255, 255, 0.411); 
     border-radius: 20px;
+}
+#abt{
+    margin-left: 850px;
+
+}
+#int{
+    margin-left: 75px;
+}
+#skil{
+    margin-left: 750px;
+}
+#hoby{
+    margin-left: 75px;
+    margin-bottom: 40px;
 }
